@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EcoFusion 2.0 – Sustainable Intelligence Framework
 
 EcoFusion 2.0 is a software-based sustainability solution that predicts energy usage 
@@ -10,3 +11,7 @@ and simulated sensor data to demonstrate carbon reduction strategies.
 
 2. Run the dashboard:
     streamlit run app/app.py
+=======
+# EcoFusion-2.0
+To build a CO₂ emission and reduction , low-cost,software-based AI system that monitors and optimizes energy consumption in existing appliances.
+>>>>>>> cf5d064afaef539be494f80d946e9cc73da5e561
