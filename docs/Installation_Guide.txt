@@ -1,0 +1,5 @@
+1. Install Python 3.10 or above.
+2. Run: pip install -r requirements.txt
+3. Generate data: python app/sensor_simulator.py
+4. Train model: python app/model.py
+5. Launch dashboard: streamlit run app/app.py
